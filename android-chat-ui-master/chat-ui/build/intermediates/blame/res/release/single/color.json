@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "/home/aditya/Downloads/android-chat-ui-master/chat-ui/build/intermediates/res/merged/release/color/abc_primary_text_material_dark.xml",
+        "source": "/home/aditya/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.1.aar/6ef37559bfa94f29c8313bbaa2cba9b1/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/home/aditya/Downloads/android-chat-ui-master/chat-ui/build/intermediates/res/merged/release/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/home/aditya/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.1.aar/6ef37559bfa94f29c8313bbaa2cba9b1/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/home/aditya/Downloads/android-chat-ui-master/chat-ui/build/intermediates/res/merged/release/color/abc_tint_spinner.xml",
+        "source": "/home/aditya/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.1.aar/6ef37559bfa94f29c8313bbaa2cba9b1/res/color/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/home/aditya/Downloads/android-chat-ui-master/chat-ui/build/intermediates/res/merged/release/color/switch_thumb_material_dark.xml",
+        "source": "/home/aditya/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.1.aar/6ef37559bfa94f29c8313bbaa2cba9b1/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/home/aditya/Downloads/android-chat-ui-master/chat-ui/build/intermediates/res/merged/release/color/abc_secondary_text_material_dark.xml",
+        "source": "/home/aditya/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.1.aar/6ef37559bfa94f29c8313bbaa2cba9b1/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/home/aditya/Downloads/android-chat-ui-master/chat-ui/build/intermediates/res/merged/release/color/abc_btn_colored_text_material.xml",
+        "source": "/home/aditya/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.1.aar/6ef37559bfa94f29c8313bbaa2cba9b1/res/color/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/home/aditya/Downloads/android-chat-ui-master/chat-ui/build/intermediates/res/merged/release/color/abc_search_url_text.xml",
+        "source": "/home/aditya/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.1.aar/6ef37559bfa94f29c8313bbaa2cba9b1/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/home/aditya/Downloads/android-chat-ui-master/chat-ui/build/intermediates/res/merged/release/color/abc_tint_seek_thumb.xml",
+        "source": "/home/aditya/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.1.aar/6ef37559bfa94f29c8313bbaa2cba9b1/res/color/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/home/aditya/Downloads/android-chat-ui-master/chat-ui/build/intermediates/res/merged/release/color/abc_hint_foreground_material_dark.xml",
+        "source": "/home/aditya/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.1.aar/6ef37559bfa94f29c8313bbaa2cba9b1/res/color/abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "/home/aditya/Downloads/android-chat-ui-master/chat-ui/build/intermediates/res/merged/release/color/design_tint_password_toggle.xml",
+        "source": "/home/aditya/.gradle/caches/transforms-1/files-1.1/design-26.0.1.aar/f9050af89e7c8827e26d09a49d9e99c0/res/color/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/home/aditya/Downloads/android-chat-ui-master/chat-ui/build/intermediates/res/merged/release/color/switch_thumb_material_light.xml",
+        "source": "/home/aditya/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.1.aar/6ef37559bfa94f29c8313bbaa2cba9b1/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/home/aditya/Downloads/android-chat-ui-master/chat-ui/build/intermediates/res/merged/release/color/design_error.xml",
+        "source": "/home/aditya/.gradle/caches/transforms-1/files-1.1/design-26.0.1.aar/f9050af89e7c8827e26d09a49d9e99c0/res/color/design_error.xml"
+    },
+    {
+        "merged": "/home/aditya/Downloads/android-chat-ui-master/chat-ui/build/intermediates/res/merged/release/color/abc_primary_text_material_light.xml",
+        "source": "/home/aditya/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.1.aar/6ef37559bfa94f29c8313bbaa2cba9b1/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/home/aditya/Downloads/android-chat-ui-master/chat-ui/build/intermediates/res/merged/release/color/abc_tint_btn_checkable.xml",
+        "source": "/home/aditya/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.1.aar/6ef37559bfa94f29c8313bbaa2cba9b1/res/color/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/home/aditya/Downloads/android-chat-ui-master/chat-ui/build/intermediates/res/merged/release/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/home/aditya/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.1.aar/6ef37559bfa94f29c8313bbaa2cba9b1/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/home/aditya/Downloads/android-chat-ui-master/chat-ui/build/intermediates/res/merged/release/color/abc_secondary_text_material_light.xml",
+        "source": "/home/aditya/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.1.aar/6ef37559bfa94f29c8313bbaa2cba9b1/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/home/aditya/Downloads/android-chat-ui-master/chat-ui/build/intermediates/res/merged/release/color/abc_tint_switch_track.xml",
+        "source": "/home/aditya/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.1.aar/6ef37559bfa94f29c8313bbaa2cba9b1/res/color/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/home/aditya/Downloads/android-chat-ui-master/chat-ui/build/intermediates/res/merged/release/color/abc_tint_edittext.xml",
+        "source": "/home/aditya/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.1.aar/6ef37559bfa94f29c8313bbaa2cba9b1/res/color/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/home/aditya/Downloads/android-chat-ui-master/chat-ui/build/intermediates/res/merged/release/color/abc_hint_foreground_material_light.xml",
+        "source": "/home/aditya/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.1.aar/6ef37559bfa94f29c8313bbaa2cba9b1/res/color/abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "/home/aditya/Downloads/android-chat-ui-master/chat-ui/build/intermediates/res/merged/release/color/abc_btn_colored_borderless_text_material.xml",
+        "source": "/home/aditya/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.1.aar/6ef37559bfa94f29c8313bbaa2cba9b1/res/color/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/home/aditya/Downloads/android-chat-ui-master/chat-ui/build/intermediates/res/merged/release/color/abc_tint_default.xml",
+        "source": "/home/aditya/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.1.aar/6ef37559bfa94f29c8313bbaa2cba9b1/res/color/abc_tint_default.xml"
+    }
+]

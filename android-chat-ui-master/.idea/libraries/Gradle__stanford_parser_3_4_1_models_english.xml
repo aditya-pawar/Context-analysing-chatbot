@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: stanford-parser-3.4.1-models-english">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/libs/stanford-parser-3.4.1-models-english.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: extjwnl-1.9">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/libs/extjwnl-1.9.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

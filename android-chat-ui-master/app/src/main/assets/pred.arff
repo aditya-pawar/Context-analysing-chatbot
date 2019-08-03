@@ -1,0 +1,7 @@
+@relation adi
+
+@attribute text string
+@attribute emot {joy,fear,anger,sadness,disgust,shame,guilt}
+
+@data
+'I am felling guilty',?
